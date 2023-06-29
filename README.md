@@ -15,13 +15,13 @@
 
 ## Introduction
 
-In this project, we are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories.
+In this project, I am going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories.
 
 [Back to Table of Content](#table-of-content)
 
 ## Goals
 
-We are going to find the answers to questions like: 
+I am going to find the answers to questions like: 
 
 1. **What is the total amount of debt that is owed by the countries listed in the dataset?**
 2. **Which country owns the maximum amount of debt and what does that amount look like?**
